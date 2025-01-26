@@ -1,0 +1,7 @@
+node_modules/
+package-lock.json
+build/
+.ps1
+dist/
+package-lock.json
+logs/
